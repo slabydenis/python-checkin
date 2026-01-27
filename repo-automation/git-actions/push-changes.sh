@@ -2,6 +2,6 @@
 
 git add zmeny.txt
 git commit -m "Automatické zmeny $(date)"
-git push origin script
+git push
 
-echo "Zmeny boli commitnuté a pushnuté na git do branchu script"
+echo "Zmeny boli commitnuté a pushnuté do branchu v ktorom ste"
